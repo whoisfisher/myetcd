@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- etcd_v1alpha1_etcdbackup.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
